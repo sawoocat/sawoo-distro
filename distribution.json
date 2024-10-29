@@ -12,7 +12,7 @@
       "name": "츄르창고",
       "description": "sawoo Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "sawoocat.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -494,6 +494,26 @@
             "size": 4190577,
             "url": "https://raw.githubusercontent.com/sawoocat/sawoo-distro/main/servers/sawoo-1.16.5/forgemods/required/PokeRemoval-Forge-2.0.2-1.16.5.jar",
             "MD5": "f913d743407b43d89ea625bfde03ddd4"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G8:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G8",
+          "type": "Library",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/sawoocat/sawoo-distro/main/servers/sawoo-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5644,
+            "url": "https://raw.githubusercontent.com/sawoocat/sawoo-distro/main/servers/sawoo-1.16.5/files/options.txt",
+            "path": "options.txt"
           }
         }
       ]
